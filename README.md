@@ -26,7 +26,7 @@ Hi there! I'm **Rakibul Islam**, a coding enthusiast from **Bogra, Bangladesh**.
 
 ## 📫 How to Reach Me
 - **Email**: rkrakib1514@outlook.com (I reply faster than my internet connection)
-- **FaceBook**: [https://www.facebook.com/roa.rakib](#) (Let's connect and act like we know what we're doing)
+- **FaceBook**: [https://www.facebook.com/roa.rakib](Rakibul Islam) (Let's connect and act like we know what we're doing)
 - **Twitter**: (Not available right now, busy fighting with a bug that refuses to leave)
 
 ## ⚡ Fun Fact
