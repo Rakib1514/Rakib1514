@@ -8,6 +8,7 @@
 - 🌱 Learning **TypeScript** and preparing for **Next.js**.
 - 💻 Proficient in **React, Tailwind CSS, Framer Motion, MongoDB, Express, Node.js**.
 - 🎯 Goal: To master **backend development** and build seamless full-stack applications.
+- 📍 Based in **Bogra, Bangladesh**.
 - ⚡ Fun Fact: I enjoy creating engaging UIs with animations.
 
 ## 📊 GitHub Stats
@@ -20,10 +21,10 @@
 
 ## 📫 Connect with Me
 
-- 🌐 [**Portfolio**](#)
-- 💼 [**LinkedIn**](#)
-- 📂 [**GitHub**](#)
-- ✉️ [**Email**](mailto:youremail@example.com)
+- 🌐 [**Portfolio**](https://rakibdev.info/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/rakib1514/)
+- 📂 [**GitHub**](https://github.com/Rakib1514)
+- ✉️ [**Email**](mailto:rkrakib1514@outlook.com)
 
 ## 🚀 Projects
 - 🛠️ **LevelQuest** - A platform for epic game reviews.
@@ -31,11 +32,11 @@
 - 🎟️ **Coupon Finder** - A website to discover discounts and deals.
 
 ## 🛠️ Technologies & Tools
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwindcss)
-![Framer Motion](https://img.shields.io/badge/-FramerMotion-05122A?style=flat&logo=framer)
+![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat-square&logo=express&logoColor=000000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb&logoColor=47A248)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-05122A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Framer Motion](https://img.shields.io/badge/-FramerMotion-05122A?style=flat-square&logo=framer&logoColor=0055FF)
 
 ⭐ **Let's Build Something Amazing Together!** ⭐
