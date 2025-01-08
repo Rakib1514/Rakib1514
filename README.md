@@ -27,7 +27,6 @@
 
 - 🌐 [**Portfolio**](https://rakibdev.info/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/rakib1514/)
-- 📂 [**GitHub**](https://github.com/Rakib1514)
 - ✉️ [**Email**](mailto:rkrakib1514@outlook.com)
 
 ## 🚀 Projects
