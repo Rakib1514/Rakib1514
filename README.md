@@ -13,11 +13,11 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=react&hide_border=true&border_radius=5)
+![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakib1514&theme=react&hide_border=true&border_radius=5)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib1514&show_icons=true&theme=react&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=react&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib1514&layout=compact&theme=react&hide_border=true)
 
 ## 📫 Connect with Me
 
