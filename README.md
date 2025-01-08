@@ -1,7 +1,7 @@
 # Hi there, I'm Rakibul Islam! 🚀
 ## Front-end web Devloper
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Rakib1514&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 
