@@ -11,13 +11,16 @@
 - 📍 Based in **Bogra, Bangladesh**.
 - ⚡ Fun Fact: I enjoy creating engaging UIs with animations.
 
-## 📊 GitHub Stats
 
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rakib1514&theme=react&hide_border=true&border_radius=5)
+
+## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rakib1514&show_icons=true&theme=react&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib1514&layout=compact&theme=react&hide_border=true)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakib1514&theme=react-dark&hide_border=true)
+
 
 ## 📫 Connect with Me
 
