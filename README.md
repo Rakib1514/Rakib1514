@@ -1,4 +1,4 @@
-![Cover Photo]([https://ibb.co.com/nqYFr3cQ](https://i.ibb.co.com/SDMzNQnV/Rakibul-Islam-2.png))
+![Alt Text](https://i.ibb.co.com/SDMzNQnV/Rakibul-Islam-2.png)
 
 # Hi there, I'm Rakibul Islam! 🚀
 ## Front-end web Devloper
