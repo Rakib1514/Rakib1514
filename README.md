@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Car-Rentio**, a Car Rental System.
+- 🔭 Currently working on **E_Biker**, a E-bike online shop.
 - 🌱 Learning **TypeScript** and preparing for **Next.js**.
 - 💻 Proficient in **React, Tailwind CSS, Framer Motion, MongoDB, Express, Node.js**.
 - 🎯 Goal: To master **backend development** and build seamless full-stack applications.
