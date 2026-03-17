@@ -23,7 +23,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rakib1514&theme=react-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib1514&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Connect with Me
