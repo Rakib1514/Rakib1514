@@ -1,16 +1,16 @@
 ![Alt Text](https://i.ibb.co.com/SDMzNQnV/Rakibul-Islam-2.png)
 
 # Hello, I'm Rakibul Islam! 🚀
-## Front-end web Devloper
+## Full stack web Devloper
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rakib1514&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **E_Biker**, a E-bike online shop.
-- 🌱 Learning **TypeScript** and preparing for **Next.js**.
-- 💻 Proficient in **React, Tailwind CSS, Framer Motion, MongoDB, Express, Node.js**.
-- 🎯 Goal: To master **backend development** and build seamless full-stack applications.
+- 🔭 Currently working on **Ql Custom**, a Chinese wire and cable harness manufacturer Portfolio.
+- 🌱 Learning **GO Lang** and preparing for **Linear Algebra**.
+- 💻 Proficient in **React, Tailwind CSS, Framer Motion, MongoDB, Express, Node.js, DRF Next.js**.
+- 🎯 Goal: To master **Full Stack development**.
 - 📍 Based in **Bogra, Bangladesh**.
 
 
